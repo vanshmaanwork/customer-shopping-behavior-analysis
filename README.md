@@ -3,6 +3,7 @@
 An **End-to-End Data Analytics Project** analyzing customer purchasing patterns, product performance, and revenue insights using **SQL, Python, and Power BI**.
 
 This project demonstrates a **real-world data analytics workflow** used by professional data analysts to extract meaningful business insights from raw customer transaction data.
+<img width="1009" height="647" alt="Screenshot 2026-04-06 201325" src="https://github.com/user-attachments/assets/603b9b0d-5797-46ae-ab9f-326843cb20a1" />
 
 ---
 
